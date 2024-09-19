@@ -23,8 +23,6 @@ Ensure you have PostgreSQL installed and running. Create a new database for this
 
 Create a `.env.local` file in the `bbc-scraper-frontend` directory with the following content:
 
-DATABASE_URL="postgresql://neondb_owner:zwM1N0HrbTVA@ep-winter-truth-a24l7wjg-pooler.eu-central-1.aws.neon.tech/neondb?sslmode=require"
-
 ### Install Required Packages
 Python
 Navigate to the project root directory and install the required packages:
